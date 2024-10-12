@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(26, 26, 26);
+    text-align: center;
+    color: white;
+}
+input[type=file] {
+    display:inline-block;
+    }
+img {
+    width:70%;
+    }
+
+h3{
+    color:rgb(255, 255, 255);
+    }
+
+h1{
+    font-weight: bold;
+    }
+
+hr{
+    border: 5px solid black;
+    border-radius: 5px;
+    }
+
